@@ -12,5 +12,7 @@ h1{
     height: 100px;
     border-radius: 50%;
     text-align: center;
-    margin:50vw auto
+    margin:50vw auto;
+    font-size: 22px;
+    font-weight: bold;
 }
