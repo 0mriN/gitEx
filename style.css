@@ -15,4 +15,5 @@ h1{
     margin:50vw auto;
     font-size: 22px;
     font-weight: bold;
+    transition: 0.5s;
 }
